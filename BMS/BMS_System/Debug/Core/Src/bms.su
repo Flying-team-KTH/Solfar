@@ -1,0 +1,7 @@
+../Core/Src/bms.c:20:6:BMS_Init	24	static
+../Core/Src/bms.c:36:6:Master_Balance	16	static
+../Core/Src/bms.c:53:6:Start_Balance_Cell	32	static
+../Core/Src/bms.c:67:10:Cell_Read	40	static
+../Core/Src/bms.c:93:6:Offset_n_Gain	24	static
+../Core/Src/bms.c:137:6:write_UART	48	static
+../Core/Src/bms.c:150:6:update_VREF	32	static
