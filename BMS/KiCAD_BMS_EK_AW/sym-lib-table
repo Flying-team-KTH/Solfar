@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2025-02-18_12-21-31")(type "KiCad")(uri "${KIPRJMOD}/Added Components/ul_BQ76925PW/KiCADv6/2025-02-18_12-21-31.kicad_sym")(options "")(descr ""))
+  (lib (name "BQ76925PW")(type "KiCad")(uri "${KIPRJMOD}/Added Components/ul_BQ76925PW/KiCADv6/BQ76925PW.kicad_sym")(options "")(descr ""))
+)
